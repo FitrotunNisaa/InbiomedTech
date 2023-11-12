@@ -1,0 +1,43 @@
+.unggulan{
+    color: #000041;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.unggulan-title{
+    font-size: 4vw;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.unggulan-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.unggulan-item {
+    border: 2px solid #FEA817;
+	border-radius: 5px;
+    width: auto;
+    height: auto;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.unggulan-img {
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

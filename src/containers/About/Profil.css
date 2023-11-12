@@ -1,0 +1,32 @@
+.profil {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #000041;
+}
+
+.profil-title {
+    font-size: 4vw;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.profil-content {
+    font-size: 1.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: justify;
+}
+
+.profil-gambar {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
